@@ -1,4 +1,4 @@
-# #1) create class BmiCalculator using constructor, instance variables this class should have method getBMI() Which return BMI
+#1) create class BmiCalculator using constructor, instance variables this class should have method getBMI() Which return BMI
 
 class Bmi:
     def __init__(self,weight,heightft,heightin):
